@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "fake api for romin-store, created with json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomuloOliveira94/romin-store-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomuloOliveira94/romin-store-json/issues"
+  },
+  "homepage": "https://github.com/RomuloOliveira94/romin-store-json#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
