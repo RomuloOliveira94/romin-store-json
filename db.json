@@ -1,9 +1,147 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "name": "Charizard",
-            "price": 15.99
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Naruto",
+      "price": 159.9,
+      "img": "https://i.imgur.com/xU3qpMz.png",
+      "description": "Protagonist of the anime naruto!",
+      "category": "animes"
+    },
+    {
+      "id": 2,
+      "name": "Luffy",
+      "price": 125.9,
+      "img": "https://i.imgur.com/0KGyxvj.png",
+      "description": "I wanna be the king of pirates!",
+      "category": "animes"
+    },
+    {
+      "id": 3,
+      "name": "Kratos",
+      "price": 189.9,
+      "img": "https://i.imgur.com/tOZVIBg.png",
+      "description": "God of war, bad guy",
+      "category": "games"
+    },
+    {
+      "id": 4,
+      "name": "Superman",
+      "price": 259.9,
+      "img": "https://i.imgur.com/tLVKuoq.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "comics"
+    },
+    {
+      "id": 5,
+      "name": "Donkey Kong",
+      "price": 99.9,
+      "img": "https://i.imgur.com/474A8qk.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "games"
+    },
+    {
+      "id": 6,
+      "name": "Goku",
+      "price": 200.9,
+      "img": "https://i.imgur.com/Cnbrf4I.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "animes"
+    },
+    {
+      "id": 7,
+      "name": "Tanjiro",
+      "price": 129.9,
+      "img": "https://i.imgur.com/fz97vMG.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "animes"
+    },
+    {
+      "id": 8,
+      "name": "Ezio",
+      "price": 259.9,
+      "img": "https://i.imgur.com/mPQQL0K.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "comics"
+    },
+    {
+      "name": "Mario",
+      "price": 129.9,
+      "img": "https://i.imgur.com/y1VV7gu.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "games",
+      "id": 9
+    },
+    {
+      "name": "Link",
+      "price": 189.9,
+      "img": "https://i.imgur.com/P85Vsrj.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "games",
+      "id": 10
+    },
+    {
+      "name": "Zed",
+      "price": 209.9,
+      "img": "https://i.imgur.com/x2lcVlU.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "games",
+      "id": 11
+    },
+    {
+      "name": "Spider-man",
+      "price": 300.9,
+      "img": "https://i.imgur.com/OJSJC8K.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "comics",
+      "id": 12
+    },
+    {
+      "name": "Ichigo",
+      "price": 189.9,
+      "img": "https://i.imgur.com/7706u21.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "animes",
+      "id": 13
+    },
+    {
+      "name": "Hulk",
+      "price": 189.9,
+      "img": "https://i.imgur.com/PniCOVh.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "comics",
+      "id": 14
+    },
+    {
+      "name": "Zoro",
+      "price": 259.9,
+      "img": "https://i.imgur.com/4lq4RUw.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "animes",
+      "id": 15
+    },
+    {
+      "name": "Batman",
+      "price": 359.9,
+      "img": "https://i.imgur.com/SQKVfU3.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "comics",
+      "id": 16
+    },
+    {
+      "name": "Deadpool",
+      "price": 219.9,
+      "img": "https://i.imgur.com/oo6mUWQ.png",
+      "description": "The badass hero, wich anyone can't beat",
+      "category": "comics",
+      "id": 17
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Freguês da Silva",
+      "wallet": 500
+    }
+  ]
 }
