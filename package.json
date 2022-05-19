@@ -4,7 +4,7 @@
   "description": "fake api for romin-store, created with json-server",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "json-server --watch db.json"
   },
