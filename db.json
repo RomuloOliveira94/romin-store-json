@@ -163,8 +163,8 @@
     {
       "name": "Deadpool",
       "price": 219.9,
-      "stock": 10
-      "quantity": 0,,
+      "stock": 10,
+      "quantity": 0,
       "img": "https://i.imgur.com/oo6mUWQ.png",
       "description": "Well, just buy me and put in your collection",
       "category": "comics",
